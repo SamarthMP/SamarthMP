@@ -2,7 +2,7 @@
 
 
 Building software is my passion, I love making tools to make using your devices a better experience ✨  
-- 25K Downloads across the Microsoft Store, GitHub, and NuGet 
+- 50K Downloads across the Microsoft Store, GitHub, and NuGet 
 - Coding every day during 2025 (new year's resolution)
 - 5 years experience with C#, currently learning C++/Win32
   
